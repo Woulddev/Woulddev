@@ -1,9 +1,5 @@
 <h1 align="left">Hi 👋! I'm Alican, a Backend & Game Developer from Azerbaijan.</h1>
 
-<table>
-<tr>
-<td valign="top" width="70%">
-
 ### 🎮 Game Dev
 <img src="https://skillicons.dev/icons?i=unity,unreal,blender&perline=10" />
 
@@ -20,28 +16,13 @@
 <a href="https://www.linkedin.com/in/alican-mikay%C4%B1lov"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://dev.to/woulddev"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 
-</td>
-<td valign="top" align="right" width="30%">
-
-<img src="https://github.com/woulddev.png" width="200" />
-
-</td>
-</tr>
-</table>
-
 <br/>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td align="center" width="50%">
 
-🎧 **Spotify**
-
-*Coming soon...*
-
-<!-- Spotify widget hazır olanda bunu əvəz et:
-<img src="https://YOUR_SPOTIFY_WIDGET_URL.vercel.app/api/spotify" width="320" />
--->
+<img src="https://lanyard.cnrad.dev/api/1144524857762140270?theme=dark&bg=0d1117&borderRadius=10px&hideDiscrim=true" width="100%" />
 
 </td>
 <td align="center" width="50%">
@@ -71,10 +52,6 @@ Location: Azerbaijan
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=woulddev&show_icons=true&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=woulddev&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woulddev&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=woulddev&theme=radical&hide_border=true" />
 </p>
